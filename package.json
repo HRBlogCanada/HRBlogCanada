@@ -12,8 +12,8 @@
         "mobile": "assets/screenshot-mobile.jpg"
     },
     "scripts": {
-      "dev": "gulp",
-      "zip": "gulp zip"
+        "dev": "gulp",
+        "zip": "gulp zip"
     },
     "author": {
         "name": "Ghost Foundation",
